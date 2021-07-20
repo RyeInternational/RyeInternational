@@ -1,5 +1,5 @@
 - 👋 Hi, we are Rye International, a professional fellowship club at UCLA with a data science track for interested students to share their academic and professional resources.
-- 💞️ We will use Github to keep track of our data projects collaborating with start-ups. We are looking for more collaborators about data solutions for business problems.
+- 💞️ We will use Github to keep track of our data projects collaborating with start-ups. We are looking for more collaborators offering data solutions to business problems.
 - 📫 Contact: ryeinternational@gmail.com
 
 <!---
